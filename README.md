@@ -20,19 +20,6 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **Maven** - A build automation tool used for running tests and generating reports.
 - **Excel** - Used for documenting all the test cases.
 
-## How to Run the Project
-
-1. **Ensure you have the following tools installed:**
-   - **Java Development Kit (JDK)** version 11 or above.
-   - **Maven** for managing dependencies and running tests.
-   - **SQLite** to ensure the database functions correctly.
-
-2. **Clone the repository:**
-   Clone the repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-.git
-
-
 ## Source Code Files
 
 ### 1. Main Application Code
@@ -89,3 +76,15 @@ Additionally, an **Excel** file has been created that documents all the test cas
   An Excel file documenting all test cases, their steps, expected results, actual results, and status.
   - **Path:**  
     `D:/PhonebookApp/Test Cases.xlsx`
+
+## How to Run the Project
+
+1. **Ensure you have the following tools installed:**
+   - **Java Development Kit (JDK)** version 11 or above.
+   - **Maven** for managing dependencies and running tests.
+   - **SQLite** to ensure the database functions correctly.
+
+2. **Clone the repository:**
+   Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-.git
