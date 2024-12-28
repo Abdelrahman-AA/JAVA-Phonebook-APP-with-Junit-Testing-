@@ -1,0 +1,8 @@
+# Ignore jacoco.exec file
+/target/jacoco.exec
+PhonebookAPP JAVA and JUint\phonebook\target/jacoco.exec
+
+# Ignore test-classes folder
+/target/test-classes/
+PhonebookAPP JAVA and JUint\phonebook\target\classes
+PhonebookAPP JAVA and JUint\phonebook\target\test-classes
