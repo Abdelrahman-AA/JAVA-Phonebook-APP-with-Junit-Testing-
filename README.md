@@ -3,6 +3,8 @@ JAVA Phonebook APP with Junit (Testing)
 
 # JAVA Phonebook APP with Junit (Testing)
 
+---
+
 ## Project Description
 
 This Phonebook application is developed using **Java** and **SQLite** for managing phone numbers. The application allows users to add, update, delete phone numbers, and search for phone numbers by name or email.
@@ -10,6 +12,8 @@ This Phonebook application is developed using **Java** and **SQLite** for managi
 All features of the application are tested using **JUnit Jupiter** in **Java** to ensure functionality and quality. The test results and code coverage are documented using tools such as **Jacoco** and **Maven Surefire**.
 
 Additionally, an **Excel** file has been created that documents all the test cases performed and their results.
+
+---
 
 ## Tools Used
 
@@ -19,6 +23,8 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **Jacoco** - A tool for generating code coverage reports.
 - **Maven** - A build automation tool used for running tests and generating reports.
 - **Excel** - Used for documenting all the test cases.
+
+---
 
 ## Source Code Files
 
@@ -76,6 +82,8 @@ Additionally, an **Excel** file has been created that documents all the test cas
   An Excel file documenting all test cases, their steps, expected results, actual results, and status.
   - **Path:**  
     `D:/PhonebookApp/Test Cases.xlsx`
+
+---
 
 ## How to Run the Project
 
