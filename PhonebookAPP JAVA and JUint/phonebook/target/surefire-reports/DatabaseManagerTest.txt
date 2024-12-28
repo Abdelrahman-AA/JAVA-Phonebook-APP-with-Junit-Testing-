@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: DatabaseManagerTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.573 s - in DatabaseManagerTest
+DatabaseManagerTest.testSearchPhoneNumberByEmail_InvalidData  Time elapsed: 0.058 s
+DatabaseManagerTest.testDeletePhoneNumber_NonExistent  Time elapsed: 0.002 s
+DatabaseManagerTest.testAddPhoneNumber_InvalidPhoneNumber  Time elapsed: 0 s
+DatabaseManagerTest.testAddPhoneNumber_MaxLengthEmail  Time elapsed: 0.016 s
+DatabaseManagerTest.testAddPhoneNumber_DuplicatePhoneNumber  Time elapsed: 0.012 s
+DatabaseManagerTest.testAddPhoneNumber_EmailExceedsMaxLength  Time elapsed: 0.002 s
+DatabaseManagerTest.testAddPhoneNumber_InvalidName  Time elapsed: 0 s
+DatabaseManagerTest.testShowAllPhoneNumbers  Time elapsed: 0.021 s
+DatabaseManagerTest.testAddPhoneNumber_WithRandomDataRepeatedly  Time elapsed: 0.931 s
+DatabaseManagerTest.testUpdatePhoneNumber_DuplicateNewPhoneNumber  Time elapsed: 0.026 s
+DatabaseManagerTest.testAddPhoneNumber_ValidData  Time elapsed: 0.008 s
+DatabaseManagerTest.testAddPhoneNumber_MaxLengthName  Time elapsed: 0.007 s
+DatabaseManagerTest.testSearchPhoneNumberByName_ValidData  Time elapsed: 0.011 s
+DatabaseManagerTest.testUpdatePhoneNumber_ValidData  Time elapsed: 0.013 s
+DatabaseManagerTest.testDeletePhoneNumber_InvalidData  Time elapsed: 0.006 s
+DatabaseManagerTest.testAddPhoneNumber_InvalidCharactersInPhoneNumber  Time elapsed: 0.002 s
+DatabaseManagerTest.testAddPhoneNumber_EmptyFields  Time elapsed: 0 s
+DatabaseManagerTest.testDeletePhoneNumber_ValidData  Time elapsed: 0.014 s
+DatabaseManagerTest.testAddPhoneNumber_InvalidEmail  Time elapsed: 0 s
+DatabaseManagerTest.testSearchPhoneNumberByName_InvalidData  Time elapsed: 0.002 s
+DatabaseManagerTest.testAddPhoneNumber_NameWithMultipleSpaces  Time elapsed: 0.013 s
+DatabaseManagerTest.testUpdatePhoneNumber_InvalidData  Time elapsed: 0.009 s
+DatabaseManagerTest.testSearchPhoneNumberByEmail_ValidData  Time elapsed: 0.012 s
