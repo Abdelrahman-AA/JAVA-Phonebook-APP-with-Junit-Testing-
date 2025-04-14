@@ -55,15 +55,10 @@ Additionally, an **Excel** file has been created that documents all the test cas
 ## Test Files
 
 ### 1. JUnit Test Cases
-- **`PhonebookAppTest.java`**  
-  Contains unit tests for the main application functionality.
-  - **Path:**  
-    `src/test/java/com/phonebook/PhonebookAppTest.java`[DatabaseManagerTest.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java)
-
 - **`DatabaseManagerTest.java`**  
-  Contains unit tests for database operations.
+  This file contains all unit tests for the application, covering both the database logic and core functionalities of the app. It ensures that each feature behaves as expected under different scenarios.
   - **Path:**  
-    `src/test/java/com/phonebook/DatabaseManagerTest.java`[DatabaseManagerTest.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java)
+    `src/test/java/com/phonebook/DatabaseManagerTest.java`[DatabaseManagerTest.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java)
 
 ---
 
