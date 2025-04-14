@@ -74,7 +74,7 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **Maven Surefire Report**  
   Contains the results of all test cases executed during the build.
   - **Path:**  
-    `target/surefire-reports/`  [DatabaseManagerTest.txt](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/Reports/DatabaseManagerTest.txt)
+    `target/surefire-reports/`  [DatabaseManagerTest.txt](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/Reports/DatabaseManagerTest.txt)
 
 ---
 
@@ -84,7 +84,7 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **`Test Cases.xlsx`**  
   An Excel file documenting all test cases, their steps, expected results, actual results, and status.
   - **Path:**  
-    `PhonebookApp/Test Cases.xlsx`[Test Cases.xlsx](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/Test%20Cases.xlsx)
+    `PhonebookApp/Test Cases.xlsx`[Test Cases.xlsx](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/Test%20Cases%20and%20Results.xlsx)
 
 ---
 
