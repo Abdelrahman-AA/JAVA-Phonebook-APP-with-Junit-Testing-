@@ -1,7 +1,17 @@
 # JAVA-Phonebook-APP-with-Junit-Testing-
 JAVA Phonebook APP with Junit (Testing)
 
-# JAVA Phonebook APP with Junit (Testing)
+---
+  <p align="center">
+  <img src="https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/Abd-El-Rahman%20Abo-Dief.jpg" alt="Response Time" width="600">
+</p>
+
+> 🏆 **This project secured 1st place** in a competitive software testing challenge.  
+> It was fully developed and tested by myself — from designing the **Java-based application** and building the **SQLite database**, to implementing **comprehensive JUnit 5 test cases** and generating detailed reports using **Jacoco** and **Maven Surefire**.
+
+---
+
+## JAVA Phonebook APP with Junit (Testing)
 
 ---
 
@@ -32,15 +42,13 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **`PhonebookApp.java`**  
   The main application logic, including the menu and user interaction.
   - **Path:**  
-    `src/main/java/com/phonebook/PhonebookApp.java`
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/main/java/com/phonebook/PhonebookApp.java
+    `src/main/java/com/phonebook/PhonebookApp.java` [PhonebookApp.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/main/java/com/phonebook/PhonebookApp.java)
 
 ### 2. Database Manager
 - **`DatabaseManager.java`**  
   Handles all database-related operations such as creating tables, adding, updating, and deleting records.
   - **Path:**  
-    `src/main/java/com/phonebook/DatabaseManager.java`
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/main/java/com/phonebook/DatabaseManager.java
+    `src/main/java/com/phonebook/DatabaseManager.java`[DatabaseManager.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/main/java/com/phonebook/DatabaseManager.java)
 
 ---
 
@@ -50,14 +58,12 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **`PhonebookAppTest.java`**  
   Contains unit tests for the main application functionality.
   - **Path:**  
-    `src/test/java/com/phonebook/PhonebookAppTest.java`
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java
+    `src/test/java/com/phonebook/PhonebookAppTest.java`[DatabaseManagerTest.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java)
 
 - **`DatabaseManagerTest.java`**  
   Contains unit tests for database operations.
   - **Path:**  
-    `src/test/java/com/phonebook/DatabaseManagerTest.java`
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java
+    `src/test/java/com/phonebook/DatabaseManagerTest.java`[DatabaseManagerTest.java](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/PhonebookAPP%20JAVA%20and%20JUint/phonebook/src/test/java/DatabaseManagerTest.java)
 
 ---
 
@@ -67,21 +73,13 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **Jacoco Code Coverage Report**  
   Provides detailed insights into the code coverage percentage of the unit tests.
   - **Path:**  
-    `target/site/jacoco/index.html`  
-    (Open this file in a browser to view the report.)
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/target/site/surefire-report.html
+    `Reports/surefire-report.html` [surefire-report.html](https://abdelrahman-aa.github.io/JAVA-Phonebook-APP-with-Junit-Testing-/Reports/surefire-report.html)
 
 ### 2. Test Results Report
 - **Maven Surefire Report**  
   Contains the results of all test cases executed during the build.
   - **Path:**  
-    `target/surefire-reports/`  
-    (Includes `.txt` and `.xml` files summarizing test results.)
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/target/surefire-reports/TEST-DatabaseManagerTest.xml
-
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/target/surefire-reports/DatabaseManagerTest-output.txt
-
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/PhonebookAPP%20JAVA%20and%20JUint/phonebook/target/surefire-reports/DatabaseManagerTest.txt
+    `target/surefire-reports/`  [DatabaseManagerTest.txt](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/Reports/DatabaseManagerTest.txt)
 
 ---
 
@@ -91,8 +89,7 @@ Additionally, an **Excel** file has been created that documents all the test cas
 - **`Test Cases.xlsx`**  
   An Excel file documenting all test cases, their steps, expected results, actual results, and status.
   - **Path:**  
-    `PhonebookApp/Test Cases.xlsx`
-    https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/Test%20Cases.xlsx
+    `PhonebookApp/Test Cases.xlsx`[Test Cases.xlsx](https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/Test%20Cases.xlsx)
 
 ---
 
