@@ -6,8 +6,8 @@ JAVA Phonebook APP with Junit (Testing)
   <img src="https://github.com/Abdelrahman-AA/JAVA-Phonebook-APP-with-Junit-Testing-/blob/main/Abd-El-Rahman%20Abo-Dief.jpg" alt="Response Time" width="600">
 </p>
 
-> 🏆 **This project secured 1st place** in a competitive software testing challenge.<
-> It was fully developed and tested by myself — from designing the **Java-based application** and building the **SQLite database**, to implementing **comprehensive JUnit 5 test cases** and generating detailed reports using **Jacoco** and **Maven Surefire**.<
+> 🏆 **This project secured 1st place** in a competitive software testing challenge.
+> It was fully developed and tested by myself — from designing the **Java-based application** and building the **SQLite database**, to implementing **comprehensive JUnit 5 test cases** and generating detailed reports using **Jacoco** and **Maven Surefire**.
 
 ---
 
